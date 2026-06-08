@@ -1,6 +1,5 @@
-# User Retention & Cohort Analysis Project
-End-to-end user retention and cohort analysis using raw database logs (PostgreSQL) and interactive charts (Excel) to compare organic and promotional channels.
 # User Retention & Cohort Analysis Project (End-to-End)
+End-to-end user retention and cohort analysis using raw database logs (PostgreSQL) and interactive charts (Excel) to compare organic and promotional channels.
 
 ## 📌 Project Overview
 This project focuses on analyzing user retention and cohort behavior dynamics using raw database logs. The main goal was to track user engagement over a 6-month period (January 2025 - June 2025) and compare the performance of organic vs. promotional marketing channels.
