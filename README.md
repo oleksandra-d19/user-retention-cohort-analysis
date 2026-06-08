@@ -1,4 +1,4 @@
-# user-retention-cohort-analysis
+# User Retention & Cohort Analysis Project
 End-to-end user retention and cohort analysis using raw database logs (PostgreSQL) and interactive charts (Excel) to compare organic and promotional channels.
 # User Retention & Cohort Analysis Project (End-to-End)
 
