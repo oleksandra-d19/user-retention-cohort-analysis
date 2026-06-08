@@ -19,8 +19,8 @@ The project follows an **end-to-end analytics workflow**:
 ---
 
 ## 📂 Repository Structure
-* `3c926e35-717b-44eb-80dc-46156f4f3aedЗавдання 1 Проєкт з ментором Delehan.sql` — Contains the complete structured SQL script for data preparation, aggregation, and final querying.
-* `Завдання 2 Проєкт з ментором Delehan (1)_2.xlsx` — Includes processed pivot tables, month-over-month retention metrics, and visualization charts.
+* `User Retention & Cohort Analysis.sql` — Contains the complete structured SQL script for data preparation, aggregation, and final querying.
+* `User Retention & Cohort Analysis.xlsx` — Includes processed pivot tables, month-over-month retention metrics, and visualization charts.
 
 ---
 
